@@ -1,0 +1,28 @@
+.checkboxState {
+    /* removing default appearance */
+    -webkit-appearance: none;
+    appearance: none;
+    /* creating a custom design */
+    width: 40px;
+    height: 40px;
+    border-radius: 0.15em;
+    margin-right: 0.5em;
+    border: 3px solid #3d2c47;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+}
+.checkboxState {
+    background-color: #d9c7e8;
+}
+.checkboxState:checked {
+    position: relative;
+}
+.checkboxState:checked:before {
+    content: "\2714";
+    font-size: 50px;
+    color: #e235bf;
+    position: absolute;
+    right: -7px;
+    top: -25px;
+}

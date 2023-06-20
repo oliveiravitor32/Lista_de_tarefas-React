@@ -1,0 +1,19 @@
+.clipboard {
+  width:40%;
+  min-width: 850px;
+  height: 94%;
+  min-height:820px;
+  background-color: #d3eaff;
+  border: 5px solid #343036;
+  border-radius:5px;
+  overflow: auto;
+}
+@media screen and (max-width: 900px) {
+  .clipboard {
+    height: 100%;
+    width: 100%;
+    min-width: 0px;
+    min-width: none;
+    border: none;
+  }
+}
