@@ -8,7 +8,7 @@
 - Deletar tarefas
 
 ## Utilização
-- npm i - Para instalar dependências
+- npm install - Para instalar dependências
 - npm run dev - Para rodar o projeto em seu dispositivo
 
 ## Preview projeto
