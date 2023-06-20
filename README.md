@@ -8,8 +8,8 @@
 - Deletar tarefas
 
 ## Utilização
-npm i - Para instalar dependências
-npm run dev - Para rodar o projeto em seu dispositivo
+- npm i - Para instalar dependências
+- npm run dev - Para rodar o projeto em seu dispositivo
 
 ## Preview projeto
 https://to-do-list-react-js-oliveiravitor32.vercel.app/
