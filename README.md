@@ -6,3 +6,6 @@
 - Completar tarefas
 - Editar tarefas
 - Deletar tarefas
+
+## Preview projeto
+https://to-do-list-react-js-oliveiravitor32.vercel.app/
